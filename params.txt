@@ -1,0 +1,4 @@
+petStatus
+Available
+Pending
+Sold
